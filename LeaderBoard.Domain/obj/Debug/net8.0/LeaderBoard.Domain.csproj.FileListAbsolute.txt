@@ -1,0 +1,15 @@
+C:\Users\Hung\source\repos\LeaderBoard.Domain\bin\Debug\net8.0\LeaderBoard.Domain.deps.json
+C:\Users\Hung\source\repos\LeaderBoard.Domain\bin\Debug\net8.0\LeaderBoard.Domain.dll
+C:\Users\Hung\source\repos\LeaderBoard.Domain\bin\Debug\net8.0\LeaderBoard.Domain.pdb
+C:\Users\Hung\source\repos\LeaderBoard.Domain\bin\Debug\net8.0\LeaderBoard.Shared.dll
+C:\Users\Hung\source\repos\LeaderBoard.Domain\bin\Debug\net8.0\LeaderBoard.Shared.pdb
+C:\Users\Hung\source\repos\LeaderBoard.Domain\obj\Debug\net8.0\LeaderBoard.Domain.csproj.AssemblyReference.cache
+C:\Users\Hung\source\repos\LeaderBoard.Domain\obj\Debug\net8.0\LeaderBoard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung\source\repos\LeaderBoard.Domain\obj\Debug\net8.0\LeaderBoard.Domain.AssemblyInfoInputs.cache
+C:\Users\Hung\source\repos\LeaderBoard.Domain\obj\Debug\net8.0\LeaderBoard.Domain.AssemblyInfo.cs
+C:\Users\Hung\source\repos\LeaderBoard.Domain\obj\Debug\net8.0\LeaderBoard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hung\source\repos\LeaderBoard.Domain\obj\Debug\net8.0\LeaderBo.BD1177D1.Up2Date
+C:\Users\Hung\source\repos\LeaderBoard.Domain\obj\Debug\net8.0\LeaderBoard.Domain.dll
+C:\Users\Hung\source\repos\LeaderBoard.Domain\obj\Debug\net8.0\refint\LeaderBoard.Domain.dll
+C:\Users\Hung\source\repos\LeaderBoard.Domain\obj\Debug\net8.0\LeaderBoard.Domain.pdb
+C:\Users\Hung\source\repos\LeaderBoard.Domain\obj\Debug\net8.0\ref\LeaderBoard.Domain.dll
