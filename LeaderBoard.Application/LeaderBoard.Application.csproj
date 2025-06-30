@@ -5,10 +5,14 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
+  
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.5.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+  </ItemGroup>
+  
   <ItemGroup>
     <ProjectReference Include="..\LeaderBoard.Domain\LeaderBoard.Domain.csproj" />
-    <ProjectReference Include="..\LeaderBoard.SharedKernel\LeaderBoard.Shared.csproj" />
   </ItemGroup>
 
 </Project>
